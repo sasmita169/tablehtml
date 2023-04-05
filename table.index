@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table  border="4" cellspacing="0" cellspadding="8"> 
+        <tr>
+            <th colspan="7"> TIME TABLE </th>
+        </tr>
+        <tr>
+            <td> DAY </td>
+            <th>SEM</th>
+            <th>1ST (9AM TO 10 AM)</th>
+            <th>2ND (10 AM TO 11 AM)</th>
+            <th>3RD(11 AM TO 12 PM)</th>
+            <th>4TH(12AM TO 1 PM)</th>
+        </tr>
+        <tr>
+            <td>MON</td>
+            <td> 2ND</td>
+            <td>------</td>
+            <td> ADA(SA)</td>
+            <td> ADA(SA)</td>
+            <td> CN(SKP)</td>
+        </tr>
+        <tr>
+            <td>TUE</td>
+            <td>2ND</td>
+            <td> FLAT(BA)</td>
+            <td> OOP(SKP)</td>
+            <th colspan="7">ADA LAB(SA)</th>
+        </tr>
+        <tr>
+            <td>WED</td>
+            <td>2ND</td>
+            <td>------</td>
+            <td> ADA(SA)</td>
+            <td> SE(SKN)</td>
+            <td> SE(SKN)</td>
+        </tr>
+        <tr>
+            <td>THU</td>
+            <td>2ND</td>
+            <td> SE(SKN)</td>
+            <td> OOP(SKP)</td>
+            <th colspan="7">OOP LAB(SKP)</th>
+        </tr>
+        <tr>
+            <td>FRI</td>
+            <td>2ND</td>
+            <td> ------</td>
+            <td> OOP(SKP)</td>
+            <th colspan="7">SE LAB(SKP)</th>
+        </tr>
+        <tr>
+            <td>SAT</td>
+            <td> 2ND</td>
+            <td>FLAT(BN)</td>
+            <td>FLAT(BN)</td>
+            <td> CN(SKP)</td>
+            <td> CN(SKP)</td>
+        </tr>
+
+        
+    </table>
+    
+</body>
+</html>
